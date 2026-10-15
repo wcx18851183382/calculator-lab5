@@ -3,7 +3,7 @@ package com.example;
 public class Calculator {
     //加法
     public double add(double a, double b){
-        return a + b;
+        return a - b;
     }
     //减法
     public double subtract(double a, double b){
